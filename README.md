@@ -1,4 +1,4 @@
-ECE 388 Embedded Design Climate Control Project
+##ECE 388 Embedded Design Climate Control Project
 
 Designed By:
 
