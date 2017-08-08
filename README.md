@@ -2,6 +2,6 @@
 
 Designed By:
 
-Eric Pires
-Richard Harrison
+Eric Pires,
+Richard Harrison,
 John Lamanuzzi
